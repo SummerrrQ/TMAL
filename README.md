@@ -26,7 +26,7 @@ We use conda to manage the Python environment. The dumped configuration is provi
 - [UCF101](https://www.crcv.ucf.edu/data/UCF101.php)
 - [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads)
 
-Thank you to the team of [CLIP-FSAR] (https://github.com/alibaba-mmai-research/CLIP-FSAR)for providing the [splits](configs/projects/CLIPFSAR)
+Thank you to the team of [CLIP-FSAR] (https://github.com/alibaba-mmai-research/CLIP-FSAR) for providing the [splits](configs/projects/CLIPFSAR)
 
 ## Backbone preparation
 
