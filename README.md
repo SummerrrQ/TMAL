@@ -34,4 +34,4 @@ We use the CLIP checkpoints from the [official release](https://github.com/opena
 
 ## Acknowledgements
 
-This code is based on [CLIP-FSAR](https://github.com/alibaba-mmai-research/CLIP-FSAR), [ST-Adapter](https://github.com/linziyi96/st-adapter) codebase, which  provids with innovative ideas in comprehensive video understanding for video classification and temporal modeling. Some flow data processing code comes from [Flownet2.0](https://github.com/NVIDIA/flownet2-pytorch) .Thanks for their awesome works!
+This code is based on [CLIP-FSAR](https://github.com/alibaba-mmai-research/CLIP-FSAR), [ST-Adapter](https://github.com/linziyi96/st-adapter) codebase, which  provids with innovative ideas in comprehensive video understanding for video classification and temporal modeling. Some flow data processing code comes from [Flownet2.0](https://github.com/NVIDIA/flownet2-pytorch). Thanks for their awesome works!
